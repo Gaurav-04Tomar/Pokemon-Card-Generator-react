@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'PokeFont';
+    src: url('./assets/fonts/fonnts.com-Pokemon-Hollow.ttf') format('truetype');
+  }
